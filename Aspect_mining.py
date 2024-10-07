@@ -1,6 +1,5 @@
 ## These functions are the ones used for implementing SYNTAX PARSING within the project. 
 
-
 #################| Fuction to explore further and deeper the tree syntax
 
 def explore(text,children=None,level=None):
